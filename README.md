@@ -1,8 +1,9 @@
-# I'm Winston,
+### Hi, I'm Winston.
 ### Welcome to my GitHub!
 
 I'm currently working on...
-- My website [winstonco.org](http://www.winstonco.org/)
+- my website [winstonco.org](http://www.winstonco.org/)
+- and my Super Auto Pets clone in Unity
 
 <!--
 **winstonco/winstonco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
